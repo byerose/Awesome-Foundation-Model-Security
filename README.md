@@ -1,2 +1,7 @@
 # Awesome-LLM-Security
-LLM4Vuln &amp; Vuln of LLM
+
+## Find Vulnerabilities via LLM
+
+
+
+## Find Vulnerabilities of LLM
