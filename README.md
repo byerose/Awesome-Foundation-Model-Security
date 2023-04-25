@@ -1,8 +1,8 @@
 # Table of Contents
 - [Survey](#survey)
 - [Find Vulnerabilities via LLM](#Find-Vulnerabilities-via-LLM)
-  - [Poisoning](#Poisoning)
 - [Find Vulnerabilities of LLM](#Find-Vulnerabilities-of-LLM)
+  - [Poisoning](#Poisoning)
 
 # Paper list
 
