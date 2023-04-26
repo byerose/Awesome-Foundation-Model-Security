@@ -17,11 +17,11 @@
 ## Risks of LLM
 
 ### Poisoning
-- [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298)
+- [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298) [**NDSS Poster**]
 
 ### Privacy
 
 ## Evaluation on LLM
 
 # Workshop
-- [Challenges of Deploying Generative AI](https://deployinggenerativeai.github.io/index) ICML2023
+- [Challenges of Deploying Generative AI](https://deployinggenerativeai.github.io/index) [**ICML2023**]
