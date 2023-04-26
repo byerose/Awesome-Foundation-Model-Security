@@ -3,10 +3,10 @@
 # Table of Contents
 - [Paper list](#Paper-list)
   - [Survey](#survey)
-  - [Risks](#Risks-of-LLM)
+  - [Risks of Model](#Risks-of-Model)
     - [Poisoning](#Poisoning)
     - [Privacy](#Privacy)
-  - [Evaluation](#Evaluation)
+  - [Evaluation on Content](#Evaluation-on-Content)
 - [Workshop](#Workshop)
 
 # Paper list
@@ -20,10 +20,9 @@
 
 ### Privacy
 - [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197) [**ArXiv**]
+
 ## Evaluation on Content
 - [LEVER: Learning to Verify Language-to-Code Generation with Execution](https://arxiv.org/abs/2302.08468) [**ArXiv**]
-
-## Evaluation on Model
 
 # Workshop
 - [Challenges of Deploying Generative AI](https://deployinggenerativeai.github.io/index) [**ICML2023**]
