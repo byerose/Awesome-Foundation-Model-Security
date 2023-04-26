@@ -2,17 +2,15 @@
 
 # Table of Contents
 - [Survey](#survey)
-- [Find Vulnerabilities via LLM](#Find-Vulnerabilities-via-LLM)
-- [Risks of LLM](#Risks-of-LLM)
+- [Risks](#Risks-of-LLM)
   - [Poisoning](#Poisoning)
   - [Privacy](#Privacy)
-- [Evaluation on LLM](#Evaluation-on-LLM)
+- [Evaluation](#Evaluation)
+- [Workshop](#Workshop)
 
 # Paper list
 
 ## Survey
-
-## Find Vulnerabilities via LLM
 
 ## Risks of LLM
 
