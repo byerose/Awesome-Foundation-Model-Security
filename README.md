@@ -15,15 +15,18 @@
 
 ## Risks of Model
 
+### Prompt Injection
+- More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv]](https://arxiv.org/abs/2302.12173)
+
 ### Poisoning
-- [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298) [**NDSS Poster**]
-- [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461) [**ArXiv**] 
+- BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS Poster]](https://arxiv.org/abs/2304.12298)
+- Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv]](http://arxiv.org/abs/2302.12461)
 
 ### Privacy
-- [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197) [**ArXiv**]
+- Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv]](http://arxiv.org/abs/2304.05197)
 
 ## Evaluation on Content
-- [LEVER: Learning to Verify Language-to-Code Generation with Execution](https://arxiv.org/abs/2302.08468) [**ArXiv**]
+- LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468)
 
 # Workshop
-- [Challenges of Deploying Generative AI](https://deployinggenerativeai.github.io/index) [**ICML2023**]
+- Challenges of Deploying Generative AI [[ICML2023]](https://deployinggenerativeai.github.io/index)
