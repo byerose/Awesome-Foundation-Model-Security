@@ -12,9 +12,15 @@
 
 # Paper list
 
-## Survey
+## 📌Survey
 
-## Risks of Model
+### Representative Model
+- InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR 2023]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder)
+   - > ada
+
+- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ArXiv]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen)
+
+## 🧯Risks of Model
 
 ### Prompt Injection
 - More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety)
@@ -26,7 +32,7 @@
 ### Privacy
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv]](http://arxiv.org/abs/2304.05197)
 
-## Evaluation on Content
+## 🎄Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever)
 
 # Workshop
