@@ -17,6 +17,7 @@
 
 ### Poisoning
 - [BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT](https://arxiv.org/abs/2304.12298) [**NDSS Poster**]
+- [Analyzing And Editing Inner Mechanisms of Backdoored Language Models](http://arxiv.org/abs/2302.12461) [**ArXiv**] 
 
 ### Privacy
 - [Multi-step Jailbreaking Privacy Attacks on ChatGPT](http://arxiv.org/abs/2304.05197) [**ArXiv**]
