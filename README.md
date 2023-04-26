@@ -4,6 +4,7 @@
 - [Paper list](#Paper-list)
   - [Survey](#survey)
   - [Risks of Model](#Risks-of-Model)
+    - [Prompt Injection](#Prompt-Injection)
     - [Poisoning](#Poisoning)
     - [Privacy](#Privacy)
   - [Evaluation on Content](#Evaluation-on-Content)
