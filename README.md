@@ -22,3 +22,6 @@
 ### Privacy
 
 ## Evaluation on LLM
+
+# Workshop
+- [Challenges of Deploying Generative AI](https://deployinggenerativeai.github.io/index) ICML2023
