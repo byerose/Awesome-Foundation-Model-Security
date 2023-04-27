@@ -9,8 +9,8 @@
   - [Privacy](#Privacy)
   - [Malicious Content](#Malicious-Content)
 - [Evaluation on Content](#Evaluation-on-Content)
-- [Model Application](#Model-Application)
-  - [4 Adversarial Robustness](#4-adversarial-robustness)
+- [Application](#Application)
+  - [4 Adversarial Robustness](#4-Adversarial-Robustness)
 - [Workshop](#Workshop)
 
 # Survey
@@ -51,7 +51,7 @@
 
 # 🗜️Application
 
-## 4 adversarial robustness 
+## 4 Adversarial Robustness 
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-green" alt="" />
   
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-green" alt="" />
