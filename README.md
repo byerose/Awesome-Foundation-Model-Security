@@ -15,27 +15,29 @@
 ## 📌Survey
 
 ### Representative Model
-- Improved Denoising Diffusion Probabilistic Models [[ICML 2021]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
-- InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR 2023]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder)
-- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ArXiv]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen)
+- Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
+- InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR '23]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder)
+- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen)
 
 ## 🧯Risks of Model
 
 ### Prompt Injection
 
-- More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety)
+- More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety)
   <details><summary></summary>
 
 ### Poisoning
 
-- BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS Poster]](https://arxiv.org/abs/2304.12298) 
+- BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) 
   <details><summary></summary>
 
-- Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv]](http://arxiv.org/abs/2302.12461)
+- Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461)
   <details><summary></summary>
 
 ### Privacy
-- Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv]](http://arxiv.org/abs/2304.05197)
+- Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197)
+  <details><summary></summary> 
+- Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization)
   <details><summary></summary> 
 
 ### Fairness
@@ -44,6 +46,7 @@
 ## 🎄Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever)
   <details><summary></summary> 
+- Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/)
 
 ## 🗜️Model Application
 
