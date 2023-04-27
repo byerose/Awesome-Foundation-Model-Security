@@ -54,10 +54,14 @@
 
 ### 4 adversarial robustness 
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-green" alt="" />
-
-- Diffusion Models for Adversarial Purification [[ICML '22]](https://arxiv.org/abs/2205.07460) [[code]](https://github.com/NVlabs/DiffPure) <img src="https://img.shields.io/badge/cv-green" alt="" />
-
+  
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-green" alt="" />
+
+- Expunging Clean-label Invisible Poisons via Pre-trained Diffusion Models [cvpr '23] [code] <img src="https://img.shields.io/badge/cv-green" alt="" />
+
+- Defending against Adversarial Audio via Diffusion Model [[CVPR '23]](https://openreview.net/forum?id=5-Df3tljit7) [[code]](https://github.com/cychomatica/AudioPure) <img src="https://img.shields.io/badge/audio-blue" alt="" />
+  
+- Diffusion Models for Adversarial Purification [[ICML '22]](https://arxiv.org/abs/2205.07460) [[code]](https://github.com/NVlabs/DiffPure) <img src="https://img.shields.io/badge/cv-green" alt="" />
 
 
 # Workshop
