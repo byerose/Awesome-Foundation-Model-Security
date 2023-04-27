@@ -7,7 +7,10 @@
     - [Prompt Injection](#Prompt-Injection)
     - [Poisoning](#Poisoning)
     - [Privacy](#Privacy)
+    - [Malicious Content](#Malicious-Content)
   - [Evaluation on Content](#Evaluation-on-Content)
+  - [Model Application](#Model-Application)
+    - [4 Adversarial Robustness](#4-adversarial-robustness)
 - [Workshop](#Workshop)
 
 # Paper list
@@ -49,7 +52,7 @@
 
 ## 🗜️Model Application
 
-### 4adversarial
+### 4 adversarial robustness 
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-green" alt="" />
 
 - Diffusion Models for Adversarial Purification [[ICML '22]](https://arxiv.org/abs/2205.07460) [[code]](https://github.com/NVlabs/DiffPure) <img src="https://img.shields.io/badge/cv-green" alt="" />
