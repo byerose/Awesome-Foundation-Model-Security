@@ -13,7 +13,7 @@
 - [Workshop](#Workshop)
 
 # Survey
-- [<img src="https://img.shields.io/badge/Tracking Papers on Diffusion Models-green" alt="" />](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html)
+- [<img src="https://img.shields.io/badge/Tracking Papers on Diffusion Models-gray" alt="" />](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html)
 ## Representative Model
 - Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion) <img src="https://img.shields.io/badge/cv-green" alt="" />
 - InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR '23]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
