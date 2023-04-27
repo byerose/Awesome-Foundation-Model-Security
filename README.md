@@ -1,4 +1,4 @@
-> introducution
+> 🚩 Recently, there have been significant advances in generative models, including the diffusion model in the field of image processing, large language models in the field of text processing, and even diffusion models that have been extended to speech and video processing. The rapid development of generative models has forced us to consider their security issues. This repository primarily focuses on the security issues arising from generative models and how to use generative models to solve existing security problems.
 
 # Table of Contents
 - [Paper list](#Paper-list)
@@ -43,7 +43,7 @@
 
 ## 🎄Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever)
-  <details><summary></summary>
+  <details><summary></summary> 
 
 # Workshop
 - Challenges of Deploying Generative AI [[ICML2023]](https://deployinggenerativeai.github.io/index)
