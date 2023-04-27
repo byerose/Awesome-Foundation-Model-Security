@@ -68,5 +68,7 @@
 
 - Threat Model-Agnostic Adversarial Defense using Diffusion Models [[ArXiv '22]](https://arxiv.org/abs/2207.08089) [[code]](https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models) <img src="https://img.shields.io/badge/cv-green" alt="" />
 
+- Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness? [[ICLR '22]](https://github.com/inspire-group/proxy-distributions) [[code]]()
+
 # Workshop
 - Challenges of Deploying Generative AI [[ICML '23]](https://deployinggenerativeai.github.io/index)
