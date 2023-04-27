@@ -15,13 +15,9 @@
 ## 📌Survey
 
 ### Representative Model
-
+- Improved Denoising Diffusion Probabilistic Models [[ICML 2021]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion)
 - InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR 2023]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder)
-  <details><summary></summary>
-
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ArXiv]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen)
-  <details><summary></summary>
-
 
 ## 🧯Risks of Model
 
@@ -42,9 +38,20 @@
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv]](http://arxiv.org/abs/2304.05197)
   <details><summary></summary> 
 
+### Fairness
+
+
 ## 🎄Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever)
   <details><summary></summary> 
+
+## 🗜️Model Application
+
+### Vision
+
+### language
+
+
 
 # Workshop
 - Challenges of Deploying Generative AI [[ICML2023]](https://deployinggenerativeai.github.io/index)
