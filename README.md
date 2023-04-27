@@ -15,14 +15,14 @@
 
 # Paper list
 
-## 📌Survey
+## Survey
 
 ### Representative Model
 - Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion) <img src="https://img.shields.io/badge/cv-green" alt="" />
 - InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR '23]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 
-## 🧯Risks of Model
+## Risks of Model
 
 ### Prompt Injection
 
@@ -43,7 +43,7 @@
 ### Malicious Content
 - Controlling Large Language Models to Generate Secure and Vulnerable Code [[ArXiv '23]](https://arxiv.org/abs/2302.05319)
 
-## 🎄Evaluation on Content
+## Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 - 
 - Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
