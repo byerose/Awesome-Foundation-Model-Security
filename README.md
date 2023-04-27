@@ -38,15 +38,13 @@
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197)
   <details><summary></summary> 
 - Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization)
-  <details><summary></summary> 
-
-### Fairness
-
+  <details><summary></summary>
 
 ## 🎄Evaluation on Content
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever)
   <details><summary></summary> 
 - Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/)
+  <details><summary></summary>
 
 ## 🗜️Model Application
 
@@ -57,4 +55,4 @@
 
 
 # Workshop
-- Challenges of Deploying Generative AI [[ICML2023]](https://deployinggenerativeai.github.io/index)
+- Challenges of Deploying Generative AI [[ICML '23]](https://deployinggenerativeai.github.io/index)
