@@ -14,7 +14,9 @@
 - [Workshop](#Workshop)
 
 # Survey
-- Tracking Papers on Diffusion Models [Link](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html) <img src="https://img.shields.io/badge/cv-green" alt="" />
+- Tracking Papers on Diffusion Models [[Link]](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html) <img src="https://img.shields.io/badge/cv-green" alt="" />
+- A Survey of Large Language Models [[ArXiv]](http://arxiv.org/abs/2303.18223) [[Link]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Diffusion Models: A Comprehensive Survey of Methods and Applications [[ArXiv]](https://arxiv.org/abs/2209.00796) [[Link]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) <img src="https://img.shields.io/badge/cv-green" alt="" />
 
 # Representative Model
 - Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion) <img src="https://img.shields.io/badge/cv-green" alt="" />
