@@ -7,7 +7,7 @@
 - [Awesome](#Awesome)
 - [Representative Model](#Representative-Model)
 - [Risks of Model](#Risks-of-Model)
-  - [Adversarial](#Adversarial)
+  - [Robustness](#Robustness)
   - [Prompt Injection](#Prompt-Injection)
   - [Poisoning](#Poisoning)
   - [Privacy](#Privacy)
@@ -31,7 +31,7 @@
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 
 # Risks of Model
-## Adversarial
+## Robustness
 - On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [[ArXiv '23]](http://arxiv.org/abs/2302.12095) [[code]](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 
 ## Prompt Injection
