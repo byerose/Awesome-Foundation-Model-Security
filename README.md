@@ -7,6 +7,7 @@
 - [Awesome](#Awesome)
 - [Representative Model](#Representative-Model)
 - [Risks of Model](#Risks-of-Model)
+  - [Adversarial](#Adversarial)
   - [Prompt Injection](#Prompt-Injection)
   - [Poisoning](#Poisoning)
   - [Privacy](#Privacy)
