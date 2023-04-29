@@ -22,14 +22,14 @@
 - A Survey of Large Language Models [[ArXiv '23]](http://arxiv.org/abs/2303.18223) [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Diffusion Models: A Comprehensive Survey of Methods and Applications [[ArXiv '22]](https://arxiv.org/abs/2209.00796) [[code]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey [[ArXiv '22]](https://arxiv.org/abs/2208.11857) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-- A Survey of Evaluation Metrics Used for NLG Systems [[CUSR '22]](https://dl.acm.org/doi/abs/10.1145/3485766)<img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- A Survey of Evaluation Metrics Used for NLG Systems [[CUSR '22]](https://dl.acm.org/doi/abs/10.1145/3485766) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Awesome
 
 - A collection of papers and resources related to Large Language Models [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Awesome-LLM: a curated list of Large Language Model [[code]](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Tracking Papers on Diffusion Models [[code]](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- Awesome-LLM-Uncertainty-Reliability-Robustness [[code]](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness)<img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Awesome-LLM-Uncertainty-Reliability-Robustness [[code]](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Representative Model
 
