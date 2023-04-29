@@ -1,7 +1,8 @@
 > 🚩 Recently, there have been significant advances in generative models, including the diffusion model in the field of image processing, large language models in the field of text processing, and even diffusion models that have been extended to speech and video processing. The rapid development of generative models has forced us to consider their security issues. This repository primarily focuses on the security issues arising from generative models and how to use generative models to address the problems of adversarial machine learning.
 
 # Table of Contents
-- [Survey](#survey)
+- [Survey](#Survey)
+- [Awesome](#Awesome)
 - [Representative Model](#Representative-Model)
 - [Risks of Model](#Risks-of-Model)
   - [Prompt Injection](#Prompt-Injection)
