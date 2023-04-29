@@ -21,6 +21,7 @@
 
 - A Survey of Large Language Models [[ArXiv]](http://arxiv.org/abs/2303.18223) [[Link]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 - Diffusion Models: A Comprehensive Survey of Methods and Applications [[ArXiv]](https://arxiv.org/abs/2209.00796) [[Link]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) <img src="https://img.shields.io/badge/cv-green" alt="" />
+- A Survey of Evaluation Metrics Used for NLG Systems [[CUSR]](https://dl.acm.org/doi/abs/10.1145/3485766)<img src="https://img.shields.io/badge/nlp-orange" alt="" />
 
 # Awesome
 
