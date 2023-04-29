@@ -32,7 +32,7 @@
 
 # Risks of Model
 ## Robustness
-- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [[ArXiv '23]](http://arxiv.org/abs/2302.12095) [[code]](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [[ICLR '23 workshop]](http://arxiv.org/abs/2302.12095) [[code]](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
 
 ## Prompt Injection
 
