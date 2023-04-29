@@ -19,55 +19,55 @@
 
 # Survey
 
-- A Survey of Large Language Models [[ArXiv '23]](http://arxiv.org/abs/2303.18223) [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- A Survey of Large Language Models [[ArXiv '23]](http://arxiv.org/abs/2303.18223) [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Diffusion Models: A Comprehensive Survey of Methods and Applications [[ArXiv '22]](https://arxiv.org/abs/2209.00796) [[code]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- A Survey of Evaluation Metrics Used for NLG Systems [[CUSR '22]](https://dl.acm.org/doi/abs/10.1145/3485766)<img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- A Survey of Evaluation Metrics Used for NLG Systems [[CUSR '22]](https://dl.acm.org/doi/abs/10.1145/3485766)<img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Awesome
 
 - Awesome-LLM: a curated list of Large Language Model [[code]](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/badge/
 -green" alt="" />
 - Tracking Papers on Diffusion Models [[code]](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- Awesome-LLM-Uncertainty-Reliability-Robustness [[code]](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness)<img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Awesome-LLM-Uncertainty-Reliability-Robustness [[code]](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness)<img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Representative Model
 
 - Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR '23]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- InCoder: A Generative Model for Code Infilling and Synthesis [[ICLR '23]](http://arxiv.org/abs/2204.05999) [[code]](https://github.com/dpfried/incoder) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Risks of Model
 ## Prompt Injection
 
-- More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   <details><summary></summary>
 
 ## Poisoning
 
-- BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Privacy
 
-- Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Extracting training data from diffusion models [[ArXiv '23]](https://arxiv.org/abs/2301.13188)  <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Malicious Content
 
-- Controlling Large Language Models to Generate Secure and Vulnerable Code [[ArXiv '23]](https://arxiv.org/abs/2302.05319) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Controlling Large Language Models to Generate Secure and Vulnerable Code [[ArXiv '23]](https://arxiv.org/abs/2302.05319) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Evaluation
 
-- LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- How Secure is Code Generated by ChatGPT? [[ArXiv '22]](https://arxiv.org/abs/2304.09655) [[code]](https://github.com/raphaelkhoury/programsgeneratedbychatgpt) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [[ICLR '23 workshop]](http://arxiv.org/abs/2302.12095) [[code]](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
-- How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks [[ArXiv '23]](https://arxiv.org/abs/2303.00293) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- How Secure is Code Generated by ChatGPT? [[ArXiv '22]](https://arxiv.org/abs/2304.09655) [[code]](https://github.com/raphaelkhoury/programsgeneratedbychatgpt) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective [[ICLR '23 workshop]](http://arxiv.org/abs/2302.12095) [[code]](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks [[ArXiv '23]](https://arxiv.org/abs/2303.00293) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Improving
 
-- Prompting GPT-3 To Be Reliable [[ICLR '23]](https://arxiv.org/abs/2210.09150) [[code]](https://github.com/NoviScl/GPT3-Reliability) <img src="https://img.shields.io/badge/nlp-orange" alt="" />
+- Prompting GPT-3 To Be Reliable [[ICLR '23]](https://arxiv.org/abs/2210.09150) [[code]](https://github.com/NoviScl/GPT3-Reliability) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Face to Security
 ## To Adversarial Robustness 
