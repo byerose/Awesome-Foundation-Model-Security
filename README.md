@@ -73,14 +73,13 @@
 # Improving
 
 - Prompting GPT-3 To Be Reliable [[ICLR '23]](https://arxiv.org/abs/2210.09150) [[code]](https://github.com/NoviScl/GPT3-Reliability) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-- Privacy-Preserving Prompt Tuning for Large Language Model Services [[]](https://arxiv.org/abs/2305.06212) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Privacy-Preserving Prompt Tuning for Large Language Model Services [[ArXiv '23]](https://arxiv.org/abs/2305.06212) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   
 # Face to Security
 ## To Adversarial Robustness 
 
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- Expunging Clean-label Invisible Poisons via Pre-trained Diffusion Models [[cvpr '23]] [[code]] <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Defending against Adversarial Audio via Diffusion Model [[CVPR '23]](https://openreview.net/forum?id=5-Df3tljit7) [[code]](https://github.com/cychomatica/AudioPure) <img src="https://img.shields.io/badge/audio-important" alt="" />
 - Diffusion Models for Adversarial Purification [[ICML '22]](https://arxiv.org/abs/2205.07460) [[code]](https://github.com/NVlabs/DiffPure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Better Diffusion Models Further Improve Adversarial Training [[ICML '23]](https://arxiv.org/abs/2302.04638) [[code]](https://github.com/wzekai99/dm-improves-at) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
