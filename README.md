@@ -82,7 +82,7 @@
   - Diffusion Models for Imperceptible and Transferable Adversarial Attack [[ArXiv '23]](https://arxiv.org/abs/2305.08192) [[code]](https://github.com/WindVChen/DiffAttack) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   
 ## Adversarial Robustness 
-
+- Improving Adversarial Robustness by Contrastive Guided Diffusion Process [[ArXiv '23]](https://arxiv.org/abs/2210.09643)
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Defending against Adversarial Audio via Diffusion Model [[CVPR '23]](https://openreview.net/forum?id=5-Df3tljit7) [[code]](https://github.com/cychomatica/AudioPure) <img src="https://img.shields.io/badge/audio-important" alt="" />
