@@ -49,8 +49,8 @@
 - BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Poisoning Language Models During Instruction Tuning [[ICML '23]](http://arxiv.org/abs/2305.00944) [[code]](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-- ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger [[ArXiv '23]](http://arxiv.org/abs/2304.14475) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-
+- Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning [[ArXiv '23]](https://arxiv.org/abs/2305.04175) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
+  
 ## Privacy
 
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
@@ -77,8 +77,8 @@
 - Privacy-Preserving Prompt Tuning for Large Language Model Services [[ArXiv '23]](https://arxiv.org/abs/2305.06212) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   
 # Face to Security
-## Evasion Attack
-
+## Attack
+  - - ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger [[ArXiv '23]](http://arxiv.org/abs/2304.14475) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   - Diffusion Models for Imperceptible and Transferable Adversarial Attack [[ArXiv '23]](https://arxiv.org/abs/2305.08192) [[code]](https://github.com/WindVChen/DiffAttack) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   
 ## Adversarial Robustness 
