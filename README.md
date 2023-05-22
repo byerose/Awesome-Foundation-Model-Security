@@ -10,11 +10,10 @@
   - [Prompt Injection](#Prompt-Injection)
   - [Poisoning](#Poisoning)
   - [Privacy](#Privacy)
-  - [Malicious Content](#Malicious-Content)
 - [Evaluation](#Evaluation)
 - [Improving](#Improving)
 - [Face to Security](#Face-to-Security)
-  - [Evasion Attack](#Evasion-Attack)  
+  - [Attack](#Attack)  
   - [Adversarial Robustness](#Adversarial-Robustness)
 - [Workshop](#Workshop)
 
@@ -59,10 +58,6 @@
 - Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Are Diffusion Models Vulnerable to Membership Inference Attacks? [[ArXiv '23]](https://arxiv.org/abs/2302.01316) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   
-## Malicious Content
-
-- Controlling Large Language Models to Generate Secure and Vulnerable Code [[ArXiv '23]](https://arxiv.org/abs/2302.05319) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-
 # Evaluation
 
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
@@ -81,7 +76,8 @@
   
 # Face to Security
 ## Attack
-  - - ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger [[ArXiv '23]](http://arxiv.org/abs/2304.14475) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+  - Controlling Large Language Models to Generate Secure and Vulnerable Code [[ArXiv '23]](https://arxiv.org/abs/2302.05319) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+  - ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger [[ArXiv '23]](http://arxiv.org/abs/2304.14475) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   - Diffusion Models for Imperceptible and Transferable Adversarial Attack [[ArXiv '23]](https://arxiv.org/abs/2305.08192) [[code]](https://github.com/WindVChen/DiffAttack) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   
 ## Adversarial Robustness 
