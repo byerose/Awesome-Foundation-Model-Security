@@ -14,7 +14,8 @@
 - [Evaluation](#Evaluation)
 - [Improving](#Improving)
 - [Face to Security](#Face-to-Security)
-  - [To Adversarial Robustness](#To-Adversarial-Robustness)
+  - [Evasion Attack](#Evasion-Attack)  
+  - [Adversarial Robustness](#Adversarial-Robustness)
 - [Workshop](#Workshop)
 
 # Survey
@@ -76,7 +77,11 @@
 - Privacy-Preserving Prompt Tuning for Large Language Model Services [[ArXiv '23]](https://arxiv.org/abs/2305.06212) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   
 # Face to Security
-## To Adversarial Robustness 
+## Evasion Attack
+
+  - Diffusion Models for Imperceptible and Transferable Adversarial Attack [[ArXiv '23]](https://arxiv.org/abs/2305.08192) [[code]](https://github.com/WindVChen/DiffAttack) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
+  
+## Adversarial Robustness 
 
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
