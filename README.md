@@ -73,7 +73,8 @@
 # Improving
 
 - Prompting GPT-3 To Be Reliable [[ICLR '23]](https://arxiv.org/abs/2210.09150) [[code]](https://github.com/NoviScl/GPT3-Reliability) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-
+- Privacy-Preserving Prompt Tuning for Large Language Model Services [[]](https://arxiv.org/abs/2305.06212) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+  
 # Face to Security
 ## To Adversarial Robustness 
 
