@@ -56,6 +56,8 @@
 - Extracting training data from diffusion models [[ArXiv '23]](https://arxiv.org/abs/2301.13188)  <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Are Diffusion Models Vulnerable to Membership Inference Attacks? [[ArXiv '23]](https://arxiv.org/abs/2302.01316) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
+- On the Risks of Stealing the Decoding Algorithms of Language Models [[ArXiv '23]](https://arxiv.org/abs/2303.04729)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence [[ACL '23]](https://arxiv.org/abs/2305.03010) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   
 # Evaluation
 
