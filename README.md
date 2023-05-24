@@ -52,6 +52,7 @@
   
 ## Privacy
 
+- Prompt Stealing Attacks Against Text-to-Image Generation Models [[ArXiv '23]](https://arxiv.org/abs/2305.13873) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Extracting training data from diffusion models [[ArXiv '23]](https://arxiv.org/abs/2301.13188)  <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Extracting Training Data from Large Language Models [[USENIX '21]](https://arxiv.org/abs/2012.07805) [[code]](https://github.com/ftramer/LM_Memorization) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
