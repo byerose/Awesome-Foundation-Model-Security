@@ -15,7 +15,7 @@
 - [Face to Security](#Face-to-Security)
   - [Attack](#Attack)  
   - [Adversarial Robustness](#Adversarial-Robustness)
-- [Workshop](#Workshop)
+- [Workshop&Talks](#Workshop&Talks)
 
 # Survey
 
@@ -93,6 +93,7 @@
 - Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness? [[ICLR '22]](https://arxiv.org/abs/2104.09425) [[code]](https://github.com/inspire-group/proxy-distributions) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Adversarial Purification with Score-based Generative Models [[ICML '21]](http://proceedings.mlr.press/v139/yoon21a.html) [[code]](https://github.com/jmyoon1/adp) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 
-# Workshop
+# Workshop&Talks
 
 - Challenges of Deploying Generative AI [[ICML '23]](https://deployinggenerativeai.github.io/index)
+- Information-Theoretic Methods for Trustworthy Machine Learning [[Simons Institute '23]](https://simons.berkeley.edu/workshops/asu-it-ml)
