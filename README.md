@@ -40,7 +40,7 @@
 # Risks of Model
 ## Evasion Attacks
 - Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-
+- Adversarial Prompting for Black Box Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Prompt Injection
 
