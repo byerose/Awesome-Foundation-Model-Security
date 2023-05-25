@@ -7,6 +7,7 @@
 - [Awesome](#Awesome)
 - [Representative Model](#Representative-Model)
 - [Risks of Model](#Risks-of-Model)
+  - [Evasion Attacks](#Evasion-Attacks)
   - [Prompt Injection](#Prompt-Injection)
   - [Poisoning](#Poisoning)
   - [Privacy](#Privacy)
@@ -37,13 +38,17 @@
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Risks of Model
+## Evasion Attacks
+- Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+
+
 ## Prompt Injection
 
 - More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   <details><summary></summary>
 
 ## Poisoning
-
+- Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [[[ArXiv '23]](https://arxiv.org/abs/2305.14710) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Poisoning Language Models During Instruction Tuning [[ICML '23]](http://arxiv.org/abs/2305.00944) [[code]](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
