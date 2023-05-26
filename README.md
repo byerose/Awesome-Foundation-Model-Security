@@ -20,6 +20,7 @@
 
 # Survey
 
+- Diffusion Models in NLP: A Survey [[ArXiv '23]](https://arxiv.org/abs/2303.07576) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - A Survey of Large Language Models [[ArXiv '23]](http://arxiv.org/abs/2303.18223) [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Diffusion Models: A Comprehensive Survey of Methods and Applications [[ArXiv '22]](https://arxiv.org/abs/2209.00796) [[code]](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey [[ArXiv '22]](https://arxiv.org/abs/2208.11857) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
