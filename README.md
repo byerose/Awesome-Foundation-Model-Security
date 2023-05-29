@@ -68,6 +68,7 @@
   
 # Evaluation
 
+- SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models' Safety Filters [[ArXiv '23]](https://arxiv.org/abs/2305.12082) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Model evaluation for extreme risks [[ArXiv '23]](https://arxiv.org/abs/2305.15324) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Holistic Evaluation of Language Models [[ArXiv '22]](https://arxiv.org/abs/2211.09110) [[code]](https://github.com/stanford-crfm/helm) [[project]](https://crfm.stanford.edu/helm/latest/) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
