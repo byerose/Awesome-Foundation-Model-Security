@@ -95,8 +95,9 @@
   - Diffusion Models for Imperceptible and Transferable Adversarial Attack [[ArXiv '23]](https://arxiv.org/abs/2305.08192) [[code]](https://github.com/WindVChen/DiffAttack) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   - Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models [[CCS '23]](https://arxiv.org/abs/2305.13873) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
   
-## Adversarial Robustness 
-- Improving Adversarial Robustness by Contrastive Guided Diffusion Process [[ArXiv '23]](https://arxiv.org/abs/2210.09643)
+## Adversarial Robustness
+- A Prompting-based Approach for Adversarial Example Generation and Robustness Enhancement [[ArXiv '23]](https://arxiv.org/abs/2203.10714) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Improving Adversarial Robustness by Contrastive Guided Diffusion Process [[ArXiv '23]](https://arxiv.org/abs/2210.09643) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - DensePure: Understanding Diffusion Models towards Adversarial Robustness [[ICLR '23]](https://arxiv.org/abs/2211.00322) [[code]](https://github.com/Jayfeather1024/DensePure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing [[USENIX '23]](https://www.usenix.org/conference/usenixsecurity23/presentation/zhangjiawei) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Defending against Adversarial Audio via Diffusion Model [[CVPR '23]](https://openreview.net/forum?id=5-Df3tljit7) [[code]](https://github.com/cychomatica/AudioPure) <img src="https://img.shields.io/badge/audio-important" alt="" />
