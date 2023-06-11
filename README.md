@@ -104,7 +104,6 @@
 - Diffusion Models for Adversarial Purification [[ICML '22]](https://arxiv.org/abs/2205.07460) [[code]](https://github.com/NVlabs/DiffPure) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Better Diffusion Models Further Improve Adversarial Training [[ICML '23]](https://arxiv.org/abs/2302.04638) [[code]](https://github.com/wzekai99/dm-improves-at) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks [[ArXiv '22]](https://arxiv.org/abs/2301.06871) [[code]](https://github.com/ankile/adversarial-diffusion) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
-- Threat Model-Agnostic Adversarial Defense using Diffusion Models [[ArXiv '22]](https://arxiv.org/abs/2207.08089) [[code]](https://github.com/tsachiblau/Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness? [[ICLR '22]](https://arxiv.org/abs/2104.09425) [[code]](https://github.com/inspire-group/proxy-distributions) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - Adversarial Purification with Score-based Generative Models [[ICML '21]](http://proceedings.mlr.press/v139/yoon21a.html) [[code]](https://github.com/jmyoon1/adp) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 
