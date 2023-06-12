@@ -51,6 +51,7 @@
 - More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Poisoning
+- UOR: Universal Backdoor Attacks on Pre-trained Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.09574)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Backdooring Neural Code Search [[ACL '23]](https://arxiv.org/abs/2305.17506) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [[[ArXiv '23]](https://arxiv.org/abs/2305.14710) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT [[NDSS '23 Poster]](https://arxiv.org/abs/2304.12298) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
