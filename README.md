@@ -71,7 +71,7 @@
 - Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence [[ACL '23]](https://arxiv.org/abs/2305.03010) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
   
 # Evaluation
-
+- PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts [[ArXiv '23]](https://arxiv.org/abs/2306.04528) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models' Safety Filters [[ArXiv '23]](https://arxiv.org/abs/2305.12082) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Model evaluation for extreme risks [[ArXiv '23]](https://arxiv.org/abs/2305.15324) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - LEVER: Learning to Verify Language-to-Code Generation with Execution [[ArXiv]](https://arxiv.org/abs/2302.08468) [[code]](https://github.com/niansong1996/lever) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
