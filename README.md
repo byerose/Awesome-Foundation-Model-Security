@@ -46,7 +46,7 @@
 - Adversarial Prompting for Black Box Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Prompt Injection
-
+- Prompt Injection attack against LLM-integrated Applications [[ArXiv '23]](https://arxiv.org/abs/2306.05499) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Black Box Adversarial Prompting for Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" /> 
 - More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
