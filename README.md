@@ -27,7 +27,7 @@
 - A Survey of Evaluation Metrics Used for NLG Systems [[CUSR '22]](https://dl.acm.org/doi/abs/10.1145/3485766) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 # Awesome
-- A collection of resources and papers on Diffusion Models [[code]](https://zeqiang-lai.github.io/Awesome-Diffusion-Models/)
+- A collection of resources and papers on Diffusion Models [[code]](https://heejkoo.github.io/Awesome-Diffusion-Models/) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - A collection of papers and resources related to Large Language Models [[code]](https://github.com/RUCAIBox/LLMSurvey) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Awesome-LLM: a curated list of Large Language Model [[code]](https://github.com/Hannibal046/Awesome-LLM) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Tracking Papers on Diffusion Models [[code]](https://vsehwag.github.io/blog/2023/2/all_papers_on_diffusion.html) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
