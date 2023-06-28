@@ -45,7 +45,7 @@
 # Risks of Model
 
 ## Evasion Attacks
-- Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](Visual Adversarial Examples Jailbreak Large Language Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
+- Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](Visual Adversarial Examples Jailbreak Large Language Models) [[code]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Adversarial Prompting for Black Box Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
