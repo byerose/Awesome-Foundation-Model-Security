@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 > 🚩 Recently, there have been significant advances in foundation models, including the diffusion model in the field of image processing, large language models in the field of text processing, and even diffusion models that have been extended to speech and video processing. The rapid development of foundation models has forced us to consider their security issues. This repository primarily focuses on the security issues arising from foundation models and how to use foundation models to address the problems of adversarial machine learning.
 
-twitter: @[llm_sec](https://twitter.com/llm_sec) @[topofmlsafety](https://twitter.com/topofmlsafety)
+twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitter.com/topofmlsafety)
 
 # Table of Contents
 - [Survey](#Survey)
