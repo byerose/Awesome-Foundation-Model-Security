@@ -62,7 +62,7 @@
 - Analyzing And Editing Inner Mechanisms of Backdoored Language Models [[ArXiv '23]](http://arxiv.org/abs/2302.12461) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Poisoning Language Models During Instruction Tuning [[ICML '23]](http://arxiv.org/abs/2305.00944) [[code]](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning [[ArXiv '23]](https://arxiv.org/abs/2305.04175) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
-- TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets [[CVPR '23]](https://arxiv.org/abs/2303.05762) [[code]](https://github.com/chenweixin107/TrojDiff) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
+- TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets [[CVPR '23]](https://arxiv.org/abs/2303.05762) [[code]](https://github.com/chenweixin107/TrojDiff) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
   
 ## Privacy
 
