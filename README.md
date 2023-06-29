@@ -38,7 +38,9 @@
 
 - Improved Denoising Diffusion Probabilistic Models [[ICML '21]](https://arxiv.org/abs/2102.09672) [[code]](https://github.com/openai/improved-diffusion) <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [[ICLR '23]](https://arxiv.org/abs/2203.13474) [[code]](https://github.com/salesforce/CodeGen) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
-
+- Learning Transferable Visual Models From Natural Language Supervision [[ICML '21]](https://arxiv.org/abs/2103.00020)   [[code]](https://github.com/openai/CLIP)<img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
+- Minigpt-4: Enhancing vision-language understanding with advanced large language models [[ArXiv '23]](https://arxiv.org/abs/2304.10592) [[code]](https://github.com/Vision-CAIR/MiniGPT-4)  <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
+ 
 # Risks of Model
 
 ## Evasion Attacks
