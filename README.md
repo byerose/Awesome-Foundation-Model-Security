@@ -47,6 +47,7 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
 
 ## Evasion Attacks
 
+- Are aligned neural networks adversarially aligned? [[ArXiv '23]](https://arxiv.org/abs/2306.15447) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2306.13213) [[code]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Adversarial Prompting for Black Box Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
