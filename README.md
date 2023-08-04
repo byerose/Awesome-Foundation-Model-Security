@@ -47,6 +47,8 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
 
 ## Evasion Attacks
 
+- Universal and Transferable Adversarial Attacks on Aligned Language Models [[ArXiv '23]](https://arxiv.org/abs/2307.15043) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots [[ArXiv '23]](https://arxiv.org/abs/2307.08715) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Are aligned neural networks adversarially aligned? [[ArXiv '23]](https://arxiv.org/abs/2306.15447) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2306.13213) [[code]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
@@ -58,7 +60,7 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
 - More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2302.12173) [[code]](https://github.com/greshake/lm-safety) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Poisoning
-- On the Exploitability of Instruction Tuning [[ArXiv '23]](https://arxiv.org/abs/2306.17194)
+- On the Exploitability of Instruction Tuning [[ArXiv '23]](https://arxiv.org/abs/2306.17194) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - UOR: Universal Backdoor Attacks on Pre-trained Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.09574)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Backdooring Neural Code Search [[ACL '23]](https://arxiv.org/abs/2305.17506) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [[[ArXiv '23]](https://arxiv.org/abs/2305.14710) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
@@ -70,6 +72,7 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
   
 ## Privacy
 
+- ProPILE: Probing Privacy Leakage in Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2307.01881) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Prompt Stealing Attacks Against Text-to-Image Generation Models [[ArXiv '23]](https://arxiv.org/abs/2305.13873) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Multi-step Jailbreaking Privacy Attacks on ChatGPT [[ArXiv '23]](http://arxiv.org/abs/2304.05197) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Extracting training data from diffusion models [[ArXiv '23]](https://arxiv.org/abs/2301.13188)  <img src="https://img.shields.io/badge/cv-brightgreen" alt="" />
@@ -80,7 +83,8 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
   
 # Evaluation
 
-- DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models [[ArXiv '23]](https://arxiv.org/abs//2306.11698)
+- Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2307.08487) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models [[ArXiv '23]](https://arxiv.org/abs//2306.11698) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts [[ArXiv '23]](https://arxiv.org/abs/2306.04528) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models' Safety Filters [[ArXiv '23]](https://arxiv.org/abs/2305.12082) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Model evaluation for extreme risks [[ArXiv '23]](https://arxiv.org/abs/2305.15324) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
