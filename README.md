@@ -47,7 +47,7 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
 
 ## Evasion Attacks
 
-- Universal and Transferable Adversarial Attacks on Aligned Language Models [[ArXiv '23]](https://arxiv.org/abs/2307.15043) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Universal and Transferable Adversarial Attacks on Aligned Language Models [[ArXiv '23]](https://arxiv.org/abs/2307.15043) [[code]](https://github.com/llm-attacks/llm-attacks?utm_source=catalyzex.com) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots [[ArXiv '23]](https://arxiv.org/abs/2307.08715) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Are aligned neural networks adversarially aligned? [[ArXiv '23]](https://arxiv.org/abs/2306.15447) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2306.13213) [[code]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
