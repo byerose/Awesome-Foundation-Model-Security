@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/byerose/Awesome-Generative-AI-Security) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-> 🚩 Recently, there have been significant advances in foundation models, including the diffusion model in the field of image processing, large language models in the field of text processing, and even diffusion models that have been extended to speech and video processing. The rapid development of foundation models has forced us to consider their security issues. This repository primarily focuses on the security issues arising from foundation models and how to use foundation models to address the problems of adversarial machine learning.
+> 🚩 In recent times, there have been notable advancements in foundation models, such as diffusion models in image processing, large language models in text processing, and even multimodal foundation models in speech and video processing. The swift progress in foundation models demands that we take into account their security concerns. This repository primarily concentrates on the security challenges posed by foundation models, with a specific emphasis on utilizing diffusion models to tackle crucial issues in adversarial machine learning.
 
 twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitter.com/topofmlsafety)
 
