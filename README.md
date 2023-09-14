@@ -53,6 +53,7 @@ twitter: [@llm_sec](https://twitter.com/llm_sec) [@topofmlsafety](https://twitte
 - Visual Adversarial Examples Jailbreak Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2306.13213) [[code]](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) <img src="https://img.shields.io/badge/multi-blueviolet" alt="" />
 - Adversarial Demonstration Attacks on Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2305.14950) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 - Adversarial Prompting for Black Box Foundation Models [[ArXiv '23]](https://arxiv.org/abs/2302.04237)  <img src="https://img.shields.io/badge/nlp-informational" alt="" />
+- Open Sesame! Universal Black Box Jailbreaking of Large Language Models [[ArXiv '23]](https://arxiv.org/abs/2309.01446) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
 
 ## Prompt Injection
 - Prompt Injection attack against LLM-integrated Applications [[ArXiv '23]](https://arxiv.org/abs/2306.05499) <img src="https://img.shields.io/badge/nlp-informational" alt="" />
